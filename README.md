@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tanchwa
 - 👀 I’m interested in database design and integration with data analysis
 - 🌱 I’m currently learning Python and SQL
-- 📫 How to reach me DM me here if you really need me 
+- 📫 If I want you to reach me, you probably already have my info
 我也會中文
 
 <!---
