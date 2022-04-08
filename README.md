@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Tanchwa
-- 👀 I’m interested in database design and integration with data analysis
-- 🌱 I’m currently learning Python and SQL
-- 📫 If I want you to reach me, you probably already have my info
+Hi there! I'm Tanchwa.
+
+I'm currently working down a path to being a DevOps engineer.
+
 我也會中文
 
 <!---
