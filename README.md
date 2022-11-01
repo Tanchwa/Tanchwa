@@ -1,6 +1,6 @@
 Hi there! I'm Tanchwa.
 
-I'm currently working down a path to being a DevOps engineer.
+I'm a DevOps and Cloud Engineer. 
 
 我也會中文
 
